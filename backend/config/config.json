@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Minie_13",
+    "database": "quizapp",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Minie_13",
+    "database": "quizapp_test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Minie_13",
+    "database": "quizapp_production",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
